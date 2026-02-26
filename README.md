@@ -50,12 +50,12 @@ If you use this research, please cite as:
 
 ```
 Artificial Intelligence Adoption in Pakistan's Public Sector: 
-A Comprehensive Research Study [Year]
+A Comprehensive Research Study 2026
 ```
 
 ## 📝 Author Information
 
-Research conducted by: Arqam Javed
+Research conducted by: Mohammad Arqam Javed
 
 ## 🤝 Contributing
 
